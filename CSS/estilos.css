@@ -1,0 +1,145 @@
+*
+{margin: 10px;}
+#principal
+{
+    margin:auto;
+    margin-top: 30px;
+    border-radius: 30px;
+    border-style: solid;
+    width: 600px;
+    height:600px;
+    background-color: rgb(122, 122, 83);
+}
+#caja1
+{
+    margin:auto;
+    width:560px;
+    height:100px;
+    background-color: rgb(110, 136, 136);   
+}
+#caja2
+{
+    width:560px;
+    height:100px;
+    background-color: rgb(117, 190, 32);
+}
+#caja3
+{
+    border-radius: 200px;
+    float: left;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(52, 146, 189);
+}
+#caja4
+{
+    float: right;
+    width:200px;
+    height: 200px;
+    background-color: rgb(53, 207, 135);   
+}
+#caja11
+{
+    width: 200px;
+    height: 50px;
+    background-color: rgb(133, 131, 228);
+}
+#principal1
+{
+    margin:auto;
+    margin-top: 30px;
+    border-radius: 30px;
+    border-style: solid;
+    width: 600px;
+    height:600px;
+    background-color:rgb(175, 113, 216);
+}
+#cabeza
+{
+    border-radius: 100px;
+    margin:auto;
+    width:100px;
+    height:100px;
+    background-color: rgb(233, 247, 248);  
+}
+#ojo1
+{
+    display: inline-block;
+    margin-top: 20px;
+    border-radius: 20px;
+    width: 20px;
+    height: 20px;
+    background-color: black;
+}
+#ojo2
+{
+    display: inline-block;
+    border-radius: 20px;
+    width: 20px;
+    height: 20px;
+    background-color: black;
+}
+#nariz
+{
+    border-radius: 40px;
+    margin:auto;
+    margin-bottom: 5px;
+    width:15px;
+    height:15px;
+    background-color: rgb(224, 168, 13);   
+}
+#boca
+{
+    border-bottom-right-radius: 21px;
+    border-bottom-left-radius: 21px;
+    margin:auto;
+    width:20px;
+    height:20px;
+    background-color: rgb(58, 5, 5);   
+}
+
+#cuerpo
+{
+    border-radius: 170px;
+    margin:auto;
+    width:170px;
+    height:170px;
+    background-color: rgb(233, 247, 248);
+}
+#mano1
+{
+    display: inline-flex;
+    margin-top: 50px;
+    margin-left: 150px;
+    width:160px;
+    height:20px;
+    background-color: rgb(5, 1, 1);
+}
+#mano2
+{
+    display: inline-flex;
+    border: 0px;
+    padding: 0px;
+    margin-top: 0px;
+    margin-left: 150px;
+    width:160px;
+    height:20px;
+    background-color: rgb(5, 1, 1);
+}
+#pelota
+{
+    border-radius: 40px;
+    margin-bottom: 260px;
+    margin-left: 250px;
+    width:20px;
+    height:180px;
+    background-color: rgb(54, 41, 3);   
+}
+#pie
+{
+    border-radius: 250px;
+    margin:auto;
+    width:250px;
+    height:250px;
+    background-color: rgb(233, 247, 248);
+}
